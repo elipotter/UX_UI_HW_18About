@@ -1,0 +1,74 @@
+body {
+    background-color: #F8F3EC;
+}
+.topnav {
+    display: block;
+    margin-left: 275px;
+    margin-right: 275px;
+    margin-bottom: 250px;
+    padding-top: 150px;
+}
+.topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: bold;
+}
+.topnav a:hover {
+    text-decoration: underline;
+}
+.topnav a.split {
+    float: right;
+    color: black;
+    font-weight: normal;
+    padding-left: 25px;
+}
+h4 {
+    font-size: 36px;
+    font-family: Arial;
+    font-style: bold;
+}
+.body {
+    display: flex;
+    flex-direction: row;
+    margin-left: 275px;
+    margin-right: 275px;
+    font-family: Arial;
+    font-size: 21.5px;
+}
+#headshot {
+    height: 700px;
+    padding-top: 25px;
+}
+#paragraph {
+    padding-left: 50px;
+    width: 500px;
+    margin-top: 0px;
+}
+footer {
+    height: 250px;
+    background-color: #D9D9D9;
+    margin-top: 250px
+}
+#logo {
+    float: left;
+    margin-left: 275px;
+    padding-top: 60px;
+}
+.footerItems {
+    float: right;
+    margin-right: 275px;
+    padding-top: 165px;
+}
+#instagram {
+    padding-left: 20px;
+}
+#linkedIn {
+    padding-left: 20px;
+}
+#paperPlane {
+    padding-left: 20px;
+}
